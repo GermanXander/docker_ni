@@ -401,3 +401,5 @@ FodyWeavers.xsd
 *.env
 /node-red
 /mariadb/
+grafana/grafana.db
+grafana/alerting/1/__default__.tmpl
